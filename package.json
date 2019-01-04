@@ -1,7 +1,6 @@
 {
   "name": "thread-loader-issue",
   "version": "1.0.0",
-  "main": "index.js",
   "repository": "git@github.com:bdwain/thread-loader-issue.git",
   "author": "bwain <bwain@grubhub.com>",
   "license": "MIT",
